@@ -1,0 +1,15 @@
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/libhostpolicy.dylib
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/libhostfxr.dylib
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/Program
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/Program.deps.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/Program.runtimeconfig.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/Program.runtimeconfig.dev.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/Program.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/Program.pdb
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/Domain.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/release/netcoreapp2.0/osx.10.11-x64/Domain.pdb
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/release/netcoreapp2.0/osx.10.11-x64/Program.csproj.CoreCompileInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/release/netcoreapp2.0/osx.10.11-x64/Program.AssemblyInfoInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/release/netcoreapp2.0/osx.10.11-x64/Program.AssemblyInfo.cs
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/release/netcoreapp2.0/osx.10.11-x64/Program.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/release/netcoreapp2.0/osx.10.11-x64/Program.pdb

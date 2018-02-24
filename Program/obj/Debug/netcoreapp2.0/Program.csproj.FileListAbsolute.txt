@@ -1,0 +1,12 @@
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/Debug/netcoreapp2.0/Program.deps.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/Debug/netcoreapp2.0/Program.runtimeconfig.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/Debug/netcoreapp2.0/Program.runtimeconfig.dev.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/Debug/netcoreapp2.0/Program.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/Debug/netcoreapp2.0/Program.pdb
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/Debug/netcoreapp2.0/Domain.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/bin/Debug/netcoreapp2.0/Domain.pdb
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/Debug/netcoreapp2.0/Program.csproj.CoreCompileInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/Debug/netcoreapp2.0/Program.AssemblyInfoInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/Debug/netcoreapp2.0/Program.AssemblyInfo.cs
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/Debug/netcoreapp2.0/Program.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Program/obj/Debug/netcoreapp2.0/Program.pdb

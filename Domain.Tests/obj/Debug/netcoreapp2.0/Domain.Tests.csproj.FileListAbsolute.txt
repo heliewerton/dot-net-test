@@ -1,0 +1,15 @@
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/obj/Debug/netcoreapp2.0/Domain.Tests.csproj.CoreCompileInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/obj/Debug/netcoreapp2.0/Domain.Tests.AssemblyInfoInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/obj/Debug/netcoreapp2.0/Domain.Tests.AssemblyInfo.cs
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/Domain.Tests.deps.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/Domain.Tests.runtimeconfig.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/Domain.Tests.runtimeconfig.dev.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/Domain.Tests.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/Domain.Tests.pdb
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/Domain.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/bin/Debug/netcoreapp2.0/Domain.pdb
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/obj/Debug/netcoreapp2.0/Domain.Tests.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain.Tests/obj/Debug/netcoreapp2.0/Domain.Tests.pdb

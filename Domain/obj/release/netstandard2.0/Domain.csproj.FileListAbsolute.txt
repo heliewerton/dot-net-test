@@ -1,0 +1,8 @@
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain/bin/release/netstandard2.0/Domain.deps.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain/bin/release/netstandard2.0/Domain.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain/bin/release/netstandard2.0/Domain.pdb
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain/obj/release/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain/obj/release/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain/obj/release/netstandard2.0/Domain.AssemblyInfo.cs
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain/obj/release/netstandard2.0/Domain.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/Domain/obj/release/netstandard2.0/Domain.pdb
