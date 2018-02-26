@@ -1,0 +1,12 @@
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/obj/Debug/netcoreapp2.0/RestApi.csproj.CoreCompileInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/obj/Debug/netcoreapp2.0/RestApi.AssemblyInfoInputs.cache
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/obj/Debug/netcoreapp2.0/RestApi.AssemblyInfo.cs
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/bin/Debug/netcoreapp2.0/RestApi.deps.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/bin/Debug/netcoreapp2.0/RestApi.runtimeconfig.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/bin/Debug/netcoreapp2.0/RestApi.runtimeconfig.dev.json
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/bin/Debug/netcoreapp2.0/RestApi.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/bin/Debug/netcoreapp2.0/RestApi.pdb
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/bin/Debug/netcoreapp2.0/Domain.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/bin/Debug/netcoreapp2.0/Domain.pdb
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/obj/Debug/netcoreapp2.0/RestApi.dll
+/home/pedro/Documents/labs/dot-net/test-dot-net/RestApi/obj/Debug/netcoreapp2.0/RestApi.pdb

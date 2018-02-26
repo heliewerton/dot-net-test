@@ -60,14 +60,13 @@ public class Program
     }
 
     public static void Run() {
-        // Creates a http client object.
         var httpClient = new HttpClient();
 
         // Does login and defines authorization.
-        Login(httpClient);
+        Domain.Facade.Login(httpClient);
 
         // Gets a correct search object and makes the search.
-        var searchResults = Search(httpClient, ConfigureSearch());
+        var searchResults = Domain.Facade.Search(httpClient, ConfigureSearch());
 
         // Parses results.
         ParseSearchResults(searchResults);

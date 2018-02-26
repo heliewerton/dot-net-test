@@ -23,6 +23,33 @@ dotnet run
 Note: Configue api url with http://domain.com without "/" in the end.
 Note: Configue api crendentials conform test requirements.
 
+## Run from the rest api (source code)
+
+First, download or clone the project, install .net core, run the project, and do a POST call to http://localhost:5000/api/index/search using the following json.
+
+```
+// In ./RestApi, run:
+
+dotnet run
+```
+
+```
+application/json
+
+{    
+  "Language": "ENG",    
+  "Currency": "USD",
+  "Destination": "MCO",    
+  "DateFrom": "02/26/2018",
+  "DateTo": "02/26/2018",
+  "Occupancy": {
+    "AdultCount": "1",        
+    "ChildCount": "1",        
+    "ChildAges": ["10"]    
+  }
+}
+```
+
 ## To Run Tests
 
 In ./Domain.Tests:
